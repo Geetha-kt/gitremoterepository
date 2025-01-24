@@ -1,3 +1,5 @@
 File is added to commit
 
-Second changes from master.
+Second changes from master.File is added to commit
+
+Second change done by mybranch
